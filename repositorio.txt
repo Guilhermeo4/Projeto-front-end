@@ -17,5 +17,12 @@ propósito do sistemos solicitado:
 
 
 5W2H em relação ao sistema:
+What:
+Where:
+When:
+Who:
+Way:
+How much:
+How:
 
 
