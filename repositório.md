@@ -8,6 +8,7 @@ Rodrigo Mourão
 
 Leonardo Vaz
 
+
 Links para os repositórios individuais dos integrantes:
 
 https://github.com/Guilhermeo4
@@ -18,10 +19,12 @@ https://github.com/matheus1749
 
 https://github.com/RodrigoMourao17
 
-propósito do sistema solicitado:
+
+Propósito do sistema solicitado:
 
 O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema 
 visualizar todo os projetos que aquele profissional ja participou, assim como as experiências daquele profissional!
+
 
 5W2H em relação ao sistema:
 
@@ -38,6 +41,7 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 -How much: Tempo de trabalho!
 
 -How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
+
 
 Requisitos:
 
