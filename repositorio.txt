@@ -11,18 +11,16 @@ https://github.com/matheus1749
 https://github.com/RodrigoMourao17
 
 propósito do sistemos solicitado:
-
-
-
-
+O 5W2H é uma ferramenta de análise e planejamento que ajuda a organizar e 
+detalhar as informações necessárias para a execução de um projeto ou solução. 
 
 5W2H em relação ao sistema:
-What:
-Where:
-When:
-Who:
-Way:
-How much:
-How:
+What: Desenvolvimento de uma aplicação web didática utilizando React, Firebase, Node.js e Git.
+Where:O projeto é desenvolvido em ambiente local, com uso de Node.js para execução e Firebase como serviço de backend.
+When: O cronograma depende do tempo disponível e dos objetivos do projeto didático, conforme necessário, baseado em feedback de usuários e avanços tecnológicos.
+Who: Alunos ou desenvolvedores interessados em aprender sobre desenvolvimento web moderno.
+Why: A aplicação serve como exemplo prático para ensinar conceitos de desenvolvimento web moderno, incluindo o uso de frameworks populares e serviços de backend como Firebase.
+How much: Pode incluir despesas com hospedagem, compra de domínio ou uso de serviços adicionais no Firebase.
+How: Utilização de React para a interface do usuário, Firebase para backend e banco de dados, Node.js para execução de scripts e Git para controle de versão.
 
 
