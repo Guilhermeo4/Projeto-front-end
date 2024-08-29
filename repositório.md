@@ -33,6 +33,8 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 
 -Who: Profissionais que buscam uma ferramenta para armazenar seu portfólio e empresários ou empresas que buscam contratar
 
+Requisitos:
+
 -Why: Mostrar os projetos já realizados pelos profissionais da IBMEC, assim como todas as experiências já adquiradas
 
 -How much: Tempo de trabalho!
