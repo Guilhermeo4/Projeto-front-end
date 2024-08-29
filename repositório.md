@@ -9,7 +9,7 @@ Rodrigo Mourão
 Leonardo Vaz
 
 
-Links para os repositórios individuais dos integrantes:
+LINKS PARA OS REPOSITÓRIO INDIVIDUAIS DOS INTEGRANTES:
 
 https://github.com/Guilhermeo4
 
