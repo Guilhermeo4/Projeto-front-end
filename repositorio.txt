@@ -27,6 +27,6 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 
 -How much: Tempo de trabalho!
 
-How: Usando linguages para criação de sites que vamos aprender durante o curso
+How: Usando as ferramentas e linguages para criação de sites que vamos aprender durante o curso
 
 
