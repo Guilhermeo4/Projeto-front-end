@@ -1,4 +1,4 @@
-Nomes dos integrantes do grupo:
+NOMES DOS INTEGRANTES DO GRUPO:
 
 -Guilherme Carvalho
 
