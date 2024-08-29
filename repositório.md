@@ -27,5 +27,5 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 
 -How much: Tempo de trabalho!
 
-How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
+-How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
 
