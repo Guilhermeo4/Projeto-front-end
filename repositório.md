@@ -1,12 +1,12 @@
 Nomes dos integrantes do grupo:
 
-Guilherme Carvalho
+*Guilherme Carvalho
 
-Matheus Carvalho
+*Matheus Carvalho
 
-Rodrigo Mourão
+*Rodrigo Mourão
 
-Leonardo Vaz
+*Leonardo Vaz
 
 LINKS PARA OS REPOSITÓRIOS INDIVIDUAIS DOS INTEGRANTES:
 
