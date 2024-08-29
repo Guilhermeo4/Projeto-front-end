@@ -11,16 +11,21 @@ https://github.com/matheus1749
 https://github.com/RodrigoMourao17
 
 propósito do sistemos solicitado:
-O 5W2H é uma ferramenta de análise e planejamento que ajuda a organizar e 
-detalhar as informações necessárias para a execução de um projeto ou solução. 
+O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema visualizar todo os projetos que aquele profissional ja participou, assim como as experiências daquele profissional!
 
 5W2H em relação ao sistema:
-What: Desenvolvimento de uma aplicação web didática utilizando React, Firebase, Node.js e Git.
-Where:O projeto é desenvolvido em ambiente local, com uso de Node.js para execução e Firebase como serviço de backend.
-When: O cronograma depende do tempo disponível e dos objetivos do projeto didático, conforme necessário, baseado em feedback de usuários e avanços tecnológicos.
-Who: Alunos ou desenvolvedores interessados em aprender sobre desenvolvimento web moderno.
-Why: A aplicação serve como exemplo prático para ensinar conceitos de desenvolvimento web moderno, incluindo o uso de frameworks populares e serviços de backend como Firebase.
-How much: Pode incluir despesas com hospedagem, compra de domínio ou uso de serviços adicionais no Firebase.
-How: Utilização de React para a interface do usuário, Firebase para backend e banco de dados, Node.js para execução de scripts e Git para controle de versão.
+-What: Desenvolvimento do sistema de portfólio
+
+-Where: Uma página web
+
+-When: Será usado durante o processo de entrevista
+
+-Who: Alunos de projeto Front-End
+
+-Why: Mostrar os projetos já realizados pelos profissionais da IBMEC, assim como todas as experiências já adquiradas
+
+-How much: Tempo de trabalho!
+
+How: Usando linguages para criação de sites que vamos aprender durante o curso
 
 
