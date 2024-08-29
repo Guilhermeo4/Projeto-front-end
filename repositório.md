@@ -1,14 +1,14 @@
 Nomes dos integrantes do grupo:
-Guilherme Carvalho
-Matheus Carvalho
-Rodrigo Mourão
-Leonardo Vaz
+.Guilherme Carvalho
+.Matheus Carvalho
+.Rodrigo Mourão
+.Leonardo Vaz
 
 Links para os repositórios individuais dos integrantes:
-https://github.com/Guilhermeo4
-https://github.com/leonardovaz5
-https://github.com/matheus1749
-https://github.com/RodrigoMourao17
+.https://github.com/Guilhermeo4
+.https://github.com/leonardovaz5
+.https://github.com/matheus1749
+.https://github.com/RodrigoMourao17
 
 propósito do sistema solicitado:
 O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema 
