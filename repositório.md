@@ -1,0 +1,31 @@
+Nomes dos integrantes do grupo:
+Guilherme Carvalho
+Matheus Carvalho
+Rodrigo Mourão
+Leonardo Vaz
+
+Links para os repositórios individuais dos integrantes:
+https://github.com/Guilhermeo4
+https://github.com/leonardovaz5
+https://github.com/matheus1749
+https://github.com/RodrigoMourao17
+
+propósito do sistema solicitado:
+O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema 
+visualizar todo os projetos que aquele profissional ja participou, assim como as experiências daquele profissional!
+
+5W2H em relação ao sistema:
+-What: Desenvolvimento do sistema de portfólio
+
+-Where: Uma página web
+
+-When: Será usado durante o processo de entrevista
+
+-Who: Profissionais que buscam uma ferramenta para armazenar seu portfólio e empresários ou empresas que buscam contratar
+
+-Why: Mostrar os projetos já realizados pelos profissionais da IBMEC, assim como todas as experiências já adquiradas
+
+-How much: Tempo de trabalho!
+
+How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
+
