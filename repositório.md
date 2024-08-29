@@ -1,11 +1,8 @@
 Nomes dos integrantes do grupo:
 
 Guilherme Carvalho
-
 Matheus Carvalho
-
 Rodrigo Mourão
-
 Leonardo Vaz
 
 Links para os repositórios individuais dos integrantes:
