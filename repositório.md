@@ -6,13 +6,11 @@ NOMES DOS INTEGRANTES DO GRUPO:
 
 -Rodrigo Mourão
 
--Leonardo Vaz
 
 LINKS PARA OS REPOSITÓRIOS INDIVIDUAIS DOS INTEGRANTES:
 
 https://github.com/Guilhermeo4
 
-https://github.com/leonardovaz5
 
 https://github.com/matheus1749
 
