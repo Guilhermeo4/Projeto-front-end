@@ -1,24 +1,24 @@
 NOMES DOS INTEGRANTES DO GRUPO:
 
--Guilherme Carvalho
+ - Guilherme Carvalho
 
--Matheus Carvalho
+ - Matheus Carvalho
 
--Rodrigo Mourão
+ - Rodrigo Mourão
 
 
 LINKS PARA OS REPOSITÓRIOS INDIVIDUAIS DOS INTEGRANTES:
 
-https://github.com/Guilhermeo4
+ https://github.com/Guilhermeo4
 
 
-https://github.com/matheus1749
+ https://github.com/matheus1749
 
-https://github.com/RodrigoMourao17
+ https://github.com/RodrigoMourao17
 
 Propósito do sistema solicitado:
 
-O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema 
+ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema 
 visualizar todo os projetos que aquele profissional ja participou, assim como as experiências daquele profissional!
 
 5W2H em relação ao sistema:
