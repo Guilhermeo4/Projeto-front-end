@@ -46,6 +46,7 @@ Requisitos funcionais:
 - O sistema deverá ter uma autenticação do usuario
 - O sistema deverá possibilitar que os alunos cadastrem novos projetos
 - O sistema deverá apresentar uma pagina que liste todos os projetos
+- O sistema deve permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
 - O sistema deve ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
@@ -53,3 +54,4 @@ Requisitos não funcionais:
 - O sistema será aplicado no celular e computador
 - O sistema Será feito em react
 - O sistema deverá aplicar a indentidade da IBMEC
+- Somente os usuários autenticados devem ter acesso para visualizar e editar seus próprios portfólios.
