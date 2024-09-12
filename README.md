@@ -44,8 +44,9 @@ O sistema deverá mostrar as tecnologias usadas no projeto
 O sistema deverá ter uma autenticação do usuario
 O sistema deverá possibilitar que os alunos cadastrem novos projetos
 O sistema deverá apresentar uma pagina que liste todos os projetos
-Requisitos não funcionais:
 
+Requisitos não funcionais:
+O sistema deve ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
 O sistema precisará estar em inglês e português
 O sistema será aplicado no celular e computador
 O sistema Será feito em react
