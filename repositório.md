@@ -39,14 +39,22 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 
  - How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
 ---------------------------------------------------------------------------------------------------------------
-Requisitos funcionais:
- - O sistema deve permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
- - O sistema deverá apresentar imagens
- - O sistema deverá apresentar a opção de "carregar mais"
- - O sistema deverá mostrar as tecnologias usadas no projeto
- - O sistema deverá ter uma autenticação do usuario 
- - O sistema deverá possibilitar que os alunos cadastrem novos projetos
- - O sistema deverá apresentar uma pagina que liste todos os projetos
+1. Registro e Login de Usuários
+Registro: Formulário com nome de usuário, senha e e-mail. Backend verifica e salva.
+Login: Formulário com nome de usuário e senha. Backend valida e retorna um token.
+2. Exibição de Imagens
+Upload: Formulário para enviar imagens. Backend salva as imagens.
+Exibição: Mostra as imagens enviadas em uma galeria.
+3. Opção de "Carregar Mais"
+Funcionalidade: Botão que, ao ser clicado, carrega mais itens (por exemplo, projetos ou imagens). Backend fornece mais itens conforme solicitado.
+4. Mostrar Tecnologias e Ferramentas Usadas
+Exibição: Seção na página que lista tecnologias e ferramentas usadas no projeto.
+5. Autenticação do Administrador
+Admin Login: Formulário de login separado para administradores. Permissões para acessar áreas administrativas.
+6. Página de Listagem de Projetos
+Listagem: Página que exibe todos os projetos disponíveis em formato de lista.
+7. Adicionar Novos Projetos ao Portfólio
+Adicionar Projeto: Formulário para inserir nome, descrição, datas e links do projeto. Backend salva as informações.
 
 Requisitos não funcionais:
 - O sistema precisará estar em inglês e português
