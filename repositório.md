@@ -40,6 +40,7 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
  - How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
 ---------------------------------------------------------------------------------------------------------------
 Requisitos funcionais:
+ - O sistema deve permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
  - O sistema deverá apresentar imagens
  - O sistema deverá apresentar a opção de "carregar mais"
  - O sistema deverá mostrar as tecnologias usadas no projeto
