@@ -9,4 +9,28 @@ Casos de Usos
                     O usuário recebe a confirmação de que seu projeto foi salvo
  - Pós-condições: O sistema está alterado com novas informações. 
  - Requisitos especiais: O sistema deve atualizar em tempo real toda e qualquer mudança feita pelo cliente.
+---------------------------------------------------------------------------------------------------------------------------------------------
+Nome do caso de uso: 
+ - Atores: 
+ - Objetivo: 
+ - Pré-condições: 
+ - Fluxo Principal: 
+ - Pós-condições: 
+ - Requisitos especiais:
+---------------------------------------------------------------------------------------------------------------------------------------------
+Nome do caso de uso: 
+ - Atores: 
+ - Objetivo: 
+ - Pré-condições: 
+ - Fluxo Principal: 
+ - Pós-condições: 
+ - Requisitos especiais:
+------------------------------------------------------------------------------------------------------------------------------------------
+Nome do caso de uso: 
+ - Atores: 
+ - Objetivo: 
+ - Pré-condições: 
+ - Fluxo Principal: 
+ - Pós-condições: 
+ - Requisitos especiais:
  
