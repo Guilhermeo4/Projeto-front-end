@@ -37,5 +37,13 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 
 -How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
 
-Requisitos:
+Requisitos funcionais:
+
+Requisitos não funcionais:
+- O sistema precisará estar em inglês e português
+- O sistema será aplicado no celular e computador
+- O sistema Será feito em react
+- O sistema deverá aplicar a indentidade da IBMEC
+
+
 
