@@ -6,7 +6,7 @@ NOMES DOS INTEGRANTES DO GRUPO:
 - Matheus Carvalho
 
 - Rodrigo Mourão
-
+------------------------------------------------------------------------------------------------------------------------------------------
 LINKS PARA OS REPOSITÓRIOS INDIVIDUAIS DOS INTEGRANTES:
 
 https://github.com/Guilhermeo4
@@ -14,11 +14,11 @@ https://github.com/Guilhermeo4
 https://github.com/matheus1749
 
 https://github.com/RodrigoMourao17
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Propósito do sistema solicitado:
 
 O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema visualizar todo os projetos que aquele profissional ja participou, assim como as experiências daquele profissional!
-
+------------------------------------------------------------------------------------------------------------------------------------------
 5W2H em relação ao sistema:
 
 - What: Desenvolvimento do sistema de portfólio
@@ -34,7 +34,7 @@ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo poss�
 - How much: Tempo de trabalho!
 
 - How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos funcionais:
 
 - O sistema deve permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
@@ -44,7 +44,7 @@ Requisitos funcionais:
 - O sistema deverá ter uma autenticação do usuario
 - O sistema deverá possibilitar que os alunos cadastrem novos projetos
 - O sistema deverá apresentar uma pagina que liste todos os projetos
-
+------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
 - O sistema deve ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
 - O sistema precisará estar em inglês e português
