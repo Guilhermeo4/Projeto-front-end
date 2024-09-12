@@ -39,6 +39,7 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 
  - How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
 ---------------------------------------------------------------------------------------------------------------
+Requisitos Funcionais
 1. Registro e Login de Usuários
    - Registro: Formulário com nome de usuário, senha e e-mail. Backend verifica e salva.
    - Login: Formulário com nome de usuário e senha. Backend valida e retorna um token.
@@ -56,7 +57,7 @@ visualizar todo os projetos que aquele profissional ja participou, assim como as
 7. Adicionar Novos Projetos ao Portfólio
    - Adicionar Projeto: Formulário para inserir nome, descrição, datas e links do projeto. Backend salva as informações.
 
-
+Requisitos não funcionais
 
 1. Multilíngue (Inglês e Português)
 Funcionalidade: O sistema deve estar disponível em inglês e português.
