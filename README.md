@@ -39,19 +39,18 @@ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo poss�
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos funcionais:
 
-- O sistema deve permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
+- O sistema deverá permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
 - O sistema deverá apresentar imagens
 - O sistema deverá apresentar a opção de "carregar mais"
 - O sistema deverá mostrar as tecnologias usadas no projeto
 - O sistema deverá ter uma autenticação do usuario
-- O sistema deverá possibilitar que os alunos cadastrem novos projetos
 - O sistema deverá apresentar uma pagina que liste todos os projetos
-- O sistema deve permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
+- O sistema deverá permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
-- O sistema deve ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
+- O sistema deverá ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
 - O sistema precisará estar em inglês e português
 - O sistema será aplicado no celular e computador
-- O sistema Será feito em react
+- O sistema será feito em react
 - O sistema deverá aplicar a indentidade da IBMEC
-- Somente os usuários autenticados devem ter acesso para visualizar e editar seus próprios portfólios.
+- Somente os usuários autenticados deverão ter acesso para visualizar e editar seus próprios portfólios.
