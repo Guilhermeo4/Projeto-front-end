@@ -55,4 +55,3 @@ Requisitos não funcionais:
 - O sistema deverá aplicar a indentidade da IBMEC
 - Somente os administradores autenticados deverão ter permissão para  editar as informações e adicionarem projetos.
 ------------------------------------------------------------------------------------------------------------------------------------------
-Casos de uso:
