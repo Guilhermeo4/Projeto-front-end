@@ -54,4 +54,5 @@ Requisitos não funcionais:
 - O sistema será feito em react
 - O sistema deverá aplicar a indentidade da IBMEC
 - Somente os usuários autenticados deverão ter acesso para visualizar e editar seus próprios portfólios.
-  
+------------------------------------------------------------------------------------------------------------------------------------------
+Casos de uso:
