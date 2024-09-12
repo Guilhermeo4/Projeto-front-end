@@ -42,7 +42,7 @@ Requisitos funcionais:
 - O sistema deverá permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
 - O sistema deverá apresentar imagens
 - O sistema deverá apresentar a opção de "carregar mais"
-- O sistema deverá mostrar as tecnologias usadas no projeto
+- O sistema deverá mostrar as tecnologias e ferramentas usadas no projeto
 - O sistema deverá ter uma autenticação do usuario
 - O sistema deverá apresentar uma pagina que liste todos os projetos
 - O sistema deverá permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
