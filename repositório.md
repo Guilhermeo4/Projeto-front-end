@@ -59,26 +59,21 @@ Requisitos Funcionais
 
 Requisitos não funcionais
 
-1. Multilíngue (Inglês e Português)
-Funcionalidade: O sistema deve estar disponível em inglês e português.
-Implementação:
-Frontend: Adicione suporte a múltiplos idiomas usando uma biblioteca como react-i18next para gerenciar traduções.
-Configuração: Crie arquivos de tradução para cada idioma com textos específicos. Permita que os usuários escolham o idioma ou detecte automaticamente com base nas configurações do navegador.
-2. Compatibilidade com Celular e Computador
-Funcionalidade: O sistema deve funcionar bem tanto em dispositivos móveis quanto em desktops.
-Implementação:
-Frontend: Use técnicas de design responsivo com CSS ou frameworks como Bootstrap para garantir que o layout se ajuste a diferentes tamanhos de tela.
-Teste: Verifique o sistema em vários dispositivos e navegadores para garantir a compatibilidade.
-3. Desenvolvimento com React
-Funcionalidade: O sistema será desenvolvido usando a biblioteca React.
-Implementação:
-Frontend: Crie componentes React para cada parte do sistema (como formulários, listas, botões).
-Ferramentas: Utilize ferramentas e bibliotecas compatíveis com React, como React Router para navegação e Redux ou Context API para gerenciamento de estado.
-4. Aplicar a Identidade da IBMEC
-Funcionalidade: O sistema deve refletir a identidade visual e os padrões da IBMEC.
-Implementação:
-Design: Use as cores, fontes e logotipos da IBMEC no design do sistema. Crie um tema consistente que siga as diretrizes de branding da IBMEC.
-Frontend: Aplique estilos CSS ou utilize um framework de UI para garantir que o sistema esteja alinhado com a identidade visual da IBMEC.
-
-
-
+1. Compatibilidade com Navegadores e Sistemas Operacionais
+Descrição: O sistema deve funcionar bem em Chrome, Firefox, Safari e Edge, e em Windows, macOS e Linux.
+Critérios: O sistema deve ser testado em diferentes navegadores e sistemas operacionais para garantir funcionalidade e design consistentes.
+2. Suporte a Múltiplos Idiomas (Inglês e Português)
+Descrição: O sistema deve estar disponível em inglês e português.
+Critérios: Deve ser possível alternar entre os dois idiomas, e todos os textos devem ser traduzidos corretamente.
+3. Compatibilidade com Celulares e Computadores
+Descrição: O sistema deve funcionar bem em dispositivos móveis e computadores.
+Critérios: O design deve ser responsivo, ajustando-se a diferentes tamanhos de tela, e a funcionalidade deve ser mantida em ambos os tipos de dispositivos.
+4. Desenvolvimento em React
+Descrição: O sistema será desenvolvido usando React.
+Critérios: O front-end deve ser construído com componentes React, e a performance deve ser otimizada.
+5. Aplicação da Identidade Visual da IBMEC
+Descrição: O sistema deve seguir a identidade visual da IBMEC.
+Critérios: O design deve usar as cores, logotipos e fontes da IBMEC de forma consistente.
+6. Controle de Acesso para Administradores Autenticados
+Descrição: Somente administradores autenticados poderão editar informações e adicionar projetos.
+Critérios: Apenas usuários autenticados como administradores terão acesso às áreas administrativas, e a autenticação deve ser segura.
