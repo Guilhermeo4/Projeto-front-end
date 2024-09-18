@@ -35,3 +35,74 @@ Nome do caso de uso:
  - Fluxo Principal: 
  - Pós-condições: 
  
+------------------------------------------------------------------------------------------------------------------------------------------
+Nome do caso de uso: Visualizar portfólio
+
+Atores: Cliente
+
+Objetivo: Cliente deseja visualizar o portfólio e as experiências armazenadas.
+
+Pré-condições: O cliente precisa estar logado e ter portfólios armazenados.
+
+Fluxo Principal:
+
+O usuário faz login no sistema.
+O usuário seleciona a opção para visualizar seu portfólio.
+O sistema exibe a lista de projetos e experiências do usuário.
+O usuário seleciona um projeto ou experiência para ver detalhes.
+O sistema exibe as informações detalhadas do projeto ou experiência selecionada.
+Pós-condições: O sistema mostra o portfólio e as experiências armazenadas ao cliente.
+
+Nome do caso de uso: Atualizar informações do portfólio
+
+Atores: Cliente
+
+Objetivo: Cliente deseja atualizar informações de um projeto ou experiência no portfólio.
+
+Pré-condições: O cliente precisa estar logado e ter um projeto ou experiência existente que deseja atualizar.
+
+Fluxo Principal:
+
+O usuário faz login no sistema.
+O usuário seleciona a opção para editar um projeto ou experiência existente.
+O sistema exibe o formulário de edição com as informações atuais.
+O usuário altera as informações conforme desejado.
+O usuário confirma as alterações.
+O sistema salva as informações atualizadas e exibe uma confirmação.
+Pós-condições: As informações do projeto ou experiência são atualizadas no portfólio do usuário.
+
+Nome do caso de uso: Buscar projetos e experiências
+
+Atores: Cliente
+
+Objetivo: Cliente deseja buscar projetos e experiências específicas em seu portfólio.
+
+Pré-condições: O cliente precisa estar logado.
+
+Fluxo Principal:
+
+O usuário faz login no sistema.
+O usuário acessa a função de busca.
+O usuário insere termos de pesquisa (por exemplo, palavras-chave, datas, tipos de projetos).
+O sistema processa a busca e exibe os resultados correspondentes.
+O usuário seleciona um resultado para visualizar detalhes.
+Pós-condições: O sistema exibe os projetos e experiências que correspondem aos termos de busca fornecidos.
+
+Nome do caso de uso: Adicionar nova experiência
+
+Atores: Cliente
+
+Objetivo: Cliente deseja adicionar uma nova experiência ao seu portfólio.
+
+Pré-condições: O cliente precisa estar logado.
+
+Fluxo Principal:
+
+O usuário faz login no sistema.
+O usuário seleciona a opção para adicionar uma nova experiência.
+O sistema exibe um formulário para preenchimento dos detalhes da nova experiência.
+O usuário preenche os campos obrigatórios e opcionais.
+O usuário confirma a adição da nova experiência.
+O sistema salva a nova experiência e exibe uma confirmação.
+Pós-condições: A nova experiência é adicionada ao portfólio do usuário.
+
