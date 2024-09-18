@@ -40,12 +40,28 @@ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo poss�
 Requisitos funcionais:
 
 - O sistema deverá permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
+   - Registro: Formulário com nome de usuário, senha e e-mail. 
+   - Login: Formulário com nome de usuário e senha. 
+    
 - O sistema deverá apresentar imagens
+   - Upload: Formulário para enviar imagens.
+   - Exibição: Mostra as imagens enviadas em uma galeria.
+     
 - O sistema deverá apresentar a opção de "carregar mais"
+  - Funcionalidade: Botão que, ao ser clicado, carrega mais itens (por exemplo, projetos ou imagens). Backend fornece mais itens conforme solicitado.
+  
 - O sistema deverá mostrar as tecnologias e ferramentas usadas no projeto
+  -  Exibição: Seção na página que lista tecnologias e ferramentas usadas no projeto
+    
 - O sistema deverá ter uma autenticação do administrador
+  - Admin Login: Formulário de login separado para administradores. Permissões para acessar áreas administrativas.
+    
 - O sistema deverá apresentar uma pagina que liste todos os projetos
+   - Listagem: Página que exibe todos os projetos disponíveis em formato de lista.
+     
 - O sistema deverá permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
+   -Adicionar Projeto: Formulário para inserir nome, descrição, datas e links do projeto. Backend salva as informações.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
 - O sistema deverá ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
