@@ -68,8 +68,23 @@ Requisitos funcionais:
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
 - O sistema deverá ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux).
+   -Testar em Chrome, Firefox, Safari, Edge.
+   -Testar em Windows, macOS e Linux.
+
 - O sistema precisará estar em inglês e português
+    -Usar biblioteca como react-intl para gerenciar idiomas.
+    -Adicionar opção para trocar entre inglês e português.
+  
 - O sistema será aplicado no celular e computador
+   -Criar design responsivo com CSS.
+   -Testar em dispositivos móveis e desktops.
+  
 - O sistema será feito em react
+    -Usar componentes React.
+  
 - O sistema deverá aplicar a indentidade da IBMEC
+   -Seguir diretrizes da IBMEC para cores e logotipos.
+   -Criar tema CSS conforme identidade da marca.
+
 - Somente os administradores autenticados deverão ter permissão para  editar as informações e adicionarem projetos.
+   -Usar controle de acesso baseado em funções.
