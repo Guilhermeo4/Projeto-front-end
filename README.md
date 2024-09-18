@@ -60,6 +60,7 @@ Requisitos funcionais:
    - Listagem: Página que exibe todos os projetos disponíveis em formato de lista.
      
 - O sistema deverá permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
+  
    -Adicionar Projeto: Formulário para inserir nome, descrição, datas e links do projeto. Backend salva as informações.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
