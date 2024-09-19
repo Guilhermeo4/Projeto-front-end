@@ -1,5 +1,5 @@
 # Projeto-front-end
-# Grupo: FE
+
 NOMES DOS INTEGRANTES DO GRUPO:
 
 - Guilherme Carvalho
