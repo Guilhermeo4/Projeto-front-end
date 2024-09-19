@@ -7,6 +7,9 @@ NOMES DOS INTEGRANTES DO GRUPO:
 - Matheus Carvalho
 
 - Rodrigo Mourão
+
+- Fabrício Amorim
+  
 ------------------------------------------------------------------------------------------------------------------------------------------
 LINKS PARA OS REPOSITÓRIOS INDIVIDUAIS DOS INTEGRANTES:
 
