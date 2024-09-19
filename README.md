@@ -57,7 +57,7 @@ Requisitos funcionais:
 - O sistema deverá ter uma autenticação do administrador
   - Admin Login: Formulário de login separado para administradores. Permissões para acessar áreas administrativas.
     
-- O sistema deverá apresentar uma pagina que liste todos os projetos
+- O sistema deverá apresentar uma página que liste todos os projetos
    - Listagem: Página que exibe todos os projetos disponíveis em formato de lista.
      
 - O sistema deverá permitir que profissionais adicionem novos projetos ao seu portfólio, incluindo detalhes como nome do projeto, descrição, data de início e término, e links relevantes.
@@ -77,7 +77,7 @@ Requisitos não funcionais:
   - Criar design responsivo com CSS.
   - Testar em dispositivos móveis e desktops.
   
-- O sistema será feito em react
+- O sistema será feito em React
   - Usar componentes React.
   
 - O sistema deverá aplicar a indentidade da IBMEC
