@@ -71,7 +71,6 @@ Requisitos não funcionais:
   - Testar em Windows, macOS e Linux.
 
 - O sistema precisará estar em inglês e português
-  - Usar biblioteca como react-intl para gerenciar idiomas.
   - Adicionar opção para trocar entre inglês e português.
   
 - O sistema será aplicado no celular e computador
