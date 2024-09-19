@@ -74,7 +74,6 @@ Requisitos não funcionais:
   - Adicionar opção para trocar entre inglês e português.
   
 - O sistema será aplicado no celular e computador
-  - Criar design responsivo com CSS.
   - Testar em dispositivos móveis e desktops.
   
 - O sistema será feito em React
