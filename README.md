@@ -39,10 +39,6 @@ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo poss�
 - How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos funcionais:
-
-- O sistema deverá permitir que os usuários se registrem e façam login usando um nome de usuário e senha.
-   - Registro: Formulário com nome de usuário, senha e e-mail. 
-   - Login: Formulário com nome de usuário e senha. 
     
 - O sistema deverá apresentar imagens
    - Upload: Formulário para enviar imagens.
