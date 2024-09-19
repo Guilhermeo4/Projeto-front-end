@@ -1,8 +1,8 @@
 Casos de Usos 
 
- Nome do caso de uso: Armazenar portfólios
+ Nome do caso de uso: Armazenar projeto
  - Atores: Cliente
- - Objetivo: Cliente deseja armazenar portfólios.
+ - Objetivo: Cliente deseja armazenar projetos.
  - Pré-condições: O cliente precisa estar logado.
  - Fluxo Principal:
    - O usuário deve fazer login no sistema
