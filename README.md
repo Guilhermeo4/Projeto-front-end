@@ -50,9 +50,6 @@ Requisitos funcionais:
      
 - O sistema deverá apresentar a opção de "carregar mais"
   - Funcionalidade: Botão que, ao ser clicado, carrega mais itens (por exemplo, projetos ou imagens). Backend fornece mais itens conforme solicitado.
-  
-- O sistema deverá mostrar as tecnologias e ferramentas usadas no projeto
-  -  Exibição: Seção na página que lista tecnologias e ferramentas usadas no projeto
     
 - O sistema deverá ter uma autenticação do administrador
   - Admin Login: Formulário de login separado para administradores. Permissões para acessar áreas administrativas.
@@ -79,8 +76,7 @@ Requisitos não funcionais:
 - O sistema será feito em React
   - Usar componentes React.
   
-- O sistema deverá aplicar a indentidade da IBMEC
-  - Seguir diretrizes da IBMEC para cores e logotipos.
+- O sistema deverá ter uma interface predominantemente azul e amarelo
 
 - Somente os administradores autenticados deverão ter permissão para  editar as informações e adicionarem projetos.
   - Usar controle de acesso baseado em funções.
