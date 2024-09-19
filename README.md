@@ -82,7 +82,6 @@ Requisitos não funcionais:
   
 - O sistema deverá aplicar a indentidade da IBMEC
   - Seguir diretrizes da IBMEC para cores e logotipos.
-  - Criar tema CSS conforme identidade da marca.
 
 - Somente os administradores autenticados deverão ter permissão para  editar as informações e adicionarem projetos.
   - Usar controle de acesso baseado em funções.
