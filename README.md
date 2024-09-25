@@ -39,7 +39,7 @@ O propósito do sistema é uma ferramenta para armazenar portfólio dos estudant
 
 - How much: Tempo de trabalho!
 
-- How: Usado pelas empresas ou interessados para fazerem pesquisas a respeito de um profisional!
+- How: Usado por qualquer um interessado em visualizar o portfólio dos alunos da IBMEC
 ------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos funcionais:
     
