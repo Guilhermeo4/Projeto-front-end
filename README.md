@@ -57,7 +57,7 @@ Requisitos funcionais:
 
 - O sistema deve organizar e apresentar o projeto dos alunos através de páginas enumeradas, encaminhando para a próxima ao clicar na próxima página
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
 - O sistema deverá ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux)
 
@@ -69,7 +69,7 @@ Requisitos não funcionais:
   
 - O sistema deverá ter uma interface predominantemente azul e amarelo(IBMEC)
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 Detalhamento dos requisitos:
 
 - No sistema, existirá uma página onde o administrador deverá inserir um nome de usuário e uma senha para se identificar. Após a identificação, o administrador terá um botão para desconectar do sistema
@@ -87,6 +87,7 @@ Detalhamento dos requisitos:
 - O sistema obrigatoriamente terá um padrão de cores que se assimila a IBMEC
 
 - Cada aluno terá um link próprio contendo os projetos em que participou, sendo a sua própria página.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
