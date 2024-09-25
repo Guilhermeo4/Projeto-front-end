@@ -1,0 +1,11 @@
+- Nome = Identificar os alunos do projeto
+
+- Atores = O usuário.
+
+- Descrição = Apresentar e infomar sobre os participantes e desenvolvedores do projeto.
+
+- Pré-Condições = Estar na página individual do aluno(onde contém seus projetos) ou do grupo que desenvolveu tal projeto.
+
+- Fluxo Principal = Usuário clica no botão "sobre nós" localizado no cabeçalho.
+
+- Pós-Condição = O sistema exibe as informações dos desenvolvedores do sistema.
