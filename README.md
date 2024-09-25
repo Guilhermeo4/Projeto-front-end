@@ -88,7 +88,8 @@ Detalhamento dos requisitos:
 
 - Cada aluno terá um link próprio contendo os projetos em que participou, sendo a sua própria página.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
+Casos de uso:
+Identificar os alunos do projeto.md
 
 
 
