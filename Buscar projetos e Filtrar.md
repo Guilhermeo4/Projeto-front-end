@@ -8,4 +8,4 @@
 
 - Fluxo Principal: Pós ter entrado na página inicial, o usuário clicará no ícone de buscar/filtragem, buscando por ferramentas usadas, cursos ou período que o aluno esá cursando no IBMEC.
 
-- Pós-Condições: estará exibido os projetos de acordo com a sua busca ou filtragem.
+- Pós-Condições: estará exibido os projetos de acordo com a sua busca ou filtragem
