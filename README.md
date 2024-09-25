@@ -94,6 +94,7 @@ Casos de uso:
 - [Encaminhar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
 - [Editar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Editar.md)
 - [Busca projetos e Filtrar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Buscar%20projetos%20e%20Filtrar.md)
+- [Adicionar aos favoritos](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Adicionar%20aos%20favoritos.md)
 
 
 
