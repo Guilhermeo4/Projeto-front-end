@@ -8,4 +8,4 @@
 
 - Fluxo Principal: Pós estar logado e verificado como administrador, poderá clicar na opção de editar, assim podendo alterar, apagar e adicionar toda e qualquer informação contida no projeto, por exemplo: participantes, descrição, links e imagem, pós editado, o administrador terá que salvar suas infomações, clicando em "Salvar"
 
-- Pós-Condição: Depois de apertar o botão "Salvar", as informações serão alteradas no sistema.
+- Pós-Condição: Depois de apertar o botão "Salvar", as informações serão alteradas no sistema
