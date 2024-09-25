@@ -35,7 +35,7 @@ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo poss�
 
 - Who: Profissionais que buscam uma ferramenta para armazenar seu portfólio e empresários ou empresas que buscam contratar
 
-- Why: Mostrar os projetos já realizados pelos profissionais da IBMEC, assim como todas as experiências já adquiradas
+- Why: Mostrar os projetos já realizados pelos alunos da IBMEC, assim como todas as experiências já adquiradas
 
 - How much: Tempo de trabalho!
 
