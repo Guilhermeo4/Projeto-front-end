@@ -27,7 +27,7 @@ O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo poss�
 ------------------------------------------------------------------------------------------------------------------------------------------
 5W2H em relação ao sistema:
 
-- What: Desenvolvimento do sistema de portfólio
+- What: Desenvolvimento do sistema de portfólio para exposição de projetos dos alunos da IBMEC
 
 - Where: Uma página web
 
