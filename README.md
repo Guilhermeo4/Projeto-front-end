@@ -22,7 +22,7 @@ https://github.com/RodrigoMourao17
 ------------------------------------------------------------------------------------------------------------------------------------------
 Propósito do sistema solicitado:
 
-O propósito do sistema é uma ferramenta para armazenar portfólio; Sendo possível através desse sistema visualizar todo os projetos que aquele profissional ja participou, assim como as experiências daquele profissional!
+O propósito do sistema é uma ferramenta para armazenar portfólio dos estudantes da IBMEC; Sendo possível através desse sistema visualizar todo os projetos que aquele aluno ja participou e os expondo para todos interessados, outros alunos, professores e possíveis clientes
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 5W2H em relação ao sistema:
