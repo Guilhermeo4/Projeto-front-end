@@ -86,7 +86,7 @@ Detalhamento dos requisitos:
 
 - O sistema obrigatoriamente terá um padrão de cores que se assimila a IBMEC
 
-- Cada aluno terá um link próprio contendo os projetos em que participou.
+- Cada aluno terá um link próprio contendo os projetos em que participou, sendo a sua própria página.
 
 
 
