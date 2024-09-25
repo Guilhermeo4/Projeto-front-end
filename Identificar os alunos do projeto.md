@@ -8,4 +8,4 @@
 
 - Fluxo Principal: O usúario acessa a descrição, na opção "descrição dos envolvidos"
 
-- Pós-Condição: O sistema exibe as informações dos desenvolvedores do sistema.
+- Pós-Condição: O sistema exibe as informações dos desenvolvedores do sistema
