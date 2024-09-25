@@ -92,6 +92,7 @@ Casos de uso:
 
 - [Identificar os alunos do projeto.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
 - [Encaminhar.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
+- [Editar.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Editar.md)
 
 
 
