@@ -93,7 +93,7 @@ Casos de uso:
 - [Identificar os alunos do projeto](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
 - [Encaminhar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
 - [Editar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Editar.md)
-- [Busca projetos e Filtrar]https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Buscar%20projetos%20e%20Filtrar.md
+- [Busca projetos e Filtrar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Buscar%20projetos%20e%20Filtrar.md)
 
 
 
