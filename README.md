@@ -91,6 +91,7 @@ Detalhamento dos requisitos:
 Casos de uso:
 
 - [Identificar os alunos do projeto.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
+- https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md
 
 
 
