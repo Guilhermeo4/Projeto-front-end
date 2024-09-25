@@ -90,9 +90,9 @@ Detalhamento dos requisitos:
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Casos de uso:
 
-- [Identificar os alunos do projeto.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
-- [Encaminhar.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
-- [Editar.md](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Editar.md)
+- [Identificar os alunos do projeto](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
+- [Encaminhar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
+- [Editar](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Editar.md)
 
 
 
