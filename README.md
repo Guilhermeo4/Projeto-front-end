@@ -45,7 +45,7 @@ Requisitos funcionais:
     
 - Somente os administradores deverão ter permissão para editar as informações dos projetos
     
-- O sistema deve ter uma opção de filtro como por exemplo: por curso, período e ferramentas utilizadas
+- O sistema deverá ter uma opção de filtro como por exemplo: por curso, período e ferramentas utilizadas
 
 - O sistema deverá apresentar uma página que liste todos os projetos
 
@@ -67,7 +67,7 @@ Requisitos não funcionais:
   
 - O sistema será feito em React
   
-- O sistema deverá ter uma interface predominantemente azul e amarelo(IBMEC)
+- O sistema deverá ter uma interface predominantemente azul e amarelo( de acordo com o manual de marca do IBMEC)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Detalhamento dos requisitos:
