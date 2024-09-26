@@ -1,6 +1,6 @@
 - Nome: Adicionar aos favoritos
 
-- Atores: O usuário.
+- Atores: O usuário
 
 - Descrição: Adicionar a uma pasta "Favoritos", onde o usuário pode guardar projetos para vizualizar quando desejar
 
