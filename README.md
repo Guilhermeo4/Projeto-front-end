@@ -10,7 +10,7 @@ NOMES DOS INTEGRANTES DO GRUPO:
 
 - Fabrício Amorim
   
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 LINKS PARA OS REPOSITÓRIOS INDIVIDUAIS DOS INTEGRANTES:
 
 https://github.com/Guilhermeo4
@@ -19,7 +19,7 @@ https://github.com/matheus1749
 
 https://github.com/RodrigoMourao17
 
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 Propósito do sistema solicitado:
 
 O propósito do sistema é uma ferramenta para armazenar projetos dos estudantes da IBMEC, sendo um portfólio para a faculdade; Sendo possível através desse sistema visualizar todo os projetos que aquele aluno ja participou e os expondo para todos interessados, outros alunos, professores e possíveis clientes
@@ -40,7 +40,7 @@ O propósito do sistema é uma ferramenta para armazenar projetos dos estudantes
 - How much: Tempo de trabalho
 
 - How: Usado por qualquer um interessado em visualizar os projetos dos alunos da IBMEC
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 Requisitos funcionais:
     
 - Somente os administradores deverão ter permissão para editar as informações dos projetos
@@ -57,7 +57,7 @@ Requisitos funcionais:
 
 - O sistema deve organizar e apresentar o projeto dos alunos através de páginas enumeradas, encaminhando para a próxima ao clicar na próxima página
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 Requisitos não funcionais:
 - O sistema deverá ser compatível com principais navegadores web (Chrome, Firefox, Safari, Edge) e sistemas operacionais (Windows, macOS, Linux)
 
@@ -69,7 +69,7 @@ Requisitos não funcionais:
   
 - O sistema deverá ter uma interface predominantemente azul e amarelo( de acordo com o manual de marca do IBMEC)
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 Detalhamento dos requisitos:
 
 - No sistema, existirá uma página onde o administrador deverá inserir um nome de usuário e uma senha para se identificar. Após a identificação, o administrador terá um botão para desconectar do sistema
@@ -82,12 +82,12 @@ Detalhamento dos requisitos:
 
 - Apenas o administrador edita e apaga projetos
 
-- Cada projeto terá um botão de encaminhar, para poder compartilhar com quem quiser.
+- Cada projeto terá um botão de encaminhar, para poder compartilhar com quem quiser
 
 - O sistema obrigatoriamente terá um padrão de cores que se assimila a IBMEC
 
-- Cada aluno terá um link próprio contendo os projetos em que participou, sendo a sua própria página.
------------------------------------------------------------------------------------------------------------------------------------------------------
+- Cada aluno terá um link próprio contendo os projetos em que participou, sendo a sua própria página
+-----------------------------------------------------------------------------------------------------------------------------------------
 Casos de uso:
 
 - [Identificar os alunos do projeto](https://github.com/Guilhermeo4/Projeto-front-end/blob/main/Encaminhar.md)
